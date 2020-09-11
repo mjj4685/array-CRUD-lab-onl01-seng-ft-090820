@@ -8,8 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   array = create_an_array
-  element = earl
-
 
 create_an_array<<("arrays!")
 
