@@ -7,8 +7,7 @@ create_an_array=["green","rioobos","black","ginger"]
 end
 
 def add_element_to_end_of_array(array, element)
-  array = create_an_array
-
+  
 create_an_array<<("arrays!")
 
 end
